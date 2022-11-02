@@ -1,1 +1,52 @@
+*{
+    font-family: Verdana,Arial,sans-serif;
+    background-color: white;
+}
+.produit {
+    color:coral;
+    font-style: italic;
+}
+.reference {
+    font-style: italic;
+    color: black;
+}
+.general {
+    color: blue;
+    font-weight: bolder;
+    text-decoration: underline;
 
+}
+#test3 {
+    color:blue;
+    font-size: small;
+}
+#test1 h3{
+    color:red;
+    font-variant-caps: all-small-caps;
+}
+blockquote p:first-letter  {
+    font-weight: bolder;
+    color: green;
+    font-family: fantasy;
+}
+h1, h2, h3 {
+    font-family: Arial, sans-serif;
+}
+table tbody tr th{
+    font-variant-caps: all-small-caps;
+}
+.reference{
+    background-color: gray;
+}
+blockquote p{
+    text-indent: 20px;
+}
+.produit td:first-letter{
+    font-variant: all-small-caps;
+}
+#test3 p{
+    background-color: #c0c0c0;
+}
+ol{
+    list-style-type:circle;
+}
